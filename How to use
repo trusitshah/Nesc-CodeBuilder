@@ -1,0 +1,10 @@
+This is file is guideline for the first time user to use this tool.
+
+Follow this simple steps.
+
+1. Download the CodeBuilder.jar file
+2. Run it using this command.
+   java -jar CodeBuilder.jar
+3. From file menu create new project.
+4. Add the elements you wanted and press the generate button to generate file.
+
